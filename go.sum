@@ -1,0 +1,4 @@
+github.com/hubenchang0515/botsend v0.0.0-20210605123622-7c023c73d6c1 h1:XIf+tro0/dppSiH3tOlpG0s/aE5CzmrxZrfPnBE9Fdo=
+github.com/hubenchang0515/botsend v0.0.0-20210605123622-7c023c73d6c1/go.mod h1:n97XlrCtnLgPdzLPWuwN7rlx4VVjPzaZbfiWZoTF66Y=
+github.com/hubenchang0515/weather v0.0.0-20210605125617-8265d0703399 h1:DGMo3lIFprPWs7QZr6CP+jOrQvEz0uf8w+wd/xT46WM=
+github.com/hubenchang0515/weather v0.0.0-20210605125617-8265d0703399/go.mod h1:9QucHZYfwqpHfwm0IPnUpUg3mDsJjSAracWLSpT0HNk=
